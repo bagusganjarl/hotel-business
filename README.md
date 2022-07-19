@@ -1,4 +1,4 @@
-# **Analyzing-eCommerce-Business-Performance-with-SQL**
+# **Investigate Hotel Business using Data Visualization**
 
 ## **Introduction**
 A mini project of [Rakamin Academy](https://www.rakamin.com/). In this project, as a **Data Scientist** from hotel company has responsibility analyze customer behavior of bookings hotel, cancellation bookings and interprete using Python visualization.
