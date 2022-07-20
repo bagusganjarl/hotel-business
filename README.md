@@ -36,10 +36,10 @@ Investigate hotel business performance to gain insights.
 
 ## **Analysis**
 1. **Monthly Hotel Booking Analysis Based on Hotel Type**
-   Observe and analyze growth based on monthly hotlel bookings on hotel type. Both of hotel type tend to be increase in the holiday season. However, amount of City Hotel booking looks decrease on August to September.<br>
-   <img width="969" alt="Screenshot Monthly Hotel Bookings" src="https://user-images.githubusercontent.com/103989278/179950901-e36d3e4c-f60f-4f6b-9617-998847f5764d.png"> <br>
+   Observe and analyze growth based on monthly hotlel bookings on hotel type. Both of hotel type tend to be increase in the holiday season. However, amount of City Hotel booking looks decrease on August to September.
    <p align="center">
-   Figure 3: Distribution of Monthly Hotel Booking Based on Hotel Type
+    <img width="969" alt="Screenshot Monthly Hotel Bookings" src="https://user-images.githubusercontent.com/103989278/179950901-e36d3e4c-f60f-4f6b-9617-998847f5764d.png"> <br>
+    Figure 3: Distribution of Monthly Hotel Booking Based on Hotel Type
    </p>
 2. **Annual Product Category Quality Analysis**
    Analyze correlation between stay duration towards cancellation hotel rates. City hotel was the highest cancel bookings rate than the Resort Hotel, almost 100%. However, Resort Hotel had the percentage less 50%.
