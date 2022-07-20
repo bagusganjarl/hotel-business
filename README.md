@@ -18,7 +18,7 @@ Investigate hotel business performance to gain insights.
 
 ## **Preprocessing**
 1. First of all, I do a descriptive statistics. This dataset contains information of hotel bookings by customer.
-   ![Descriptive Statistics of Bookings Hotel](Desktop/Descriptive Statistics of Bookings Hotel.png)
+   <img width="485" alt="Descriptive Statistics of Hotel Bookings" src="https://user-images.githubusercontent.com/103989278/179944979-b00638e8-0ccb-469e-a007-2a0a0dd92d1e.png">
    The dataset has 119390 rows and 29 columns with various data type float64(4), int64(16), object(9).
 2. Check missing values. After overviewing the dataset, I checked the values of each columns.
    <insert image>
