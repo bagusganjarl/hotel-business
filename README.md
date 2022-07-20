@@ -1,10 +1,10 @@
 # **Investigate Hotel Business using Data Visualization**
 
 ## **Work Environment**
-**Tools**                   : Jupyter Notebook <br>
-**Programming Languange**   : Python <br>
-**Libraries**               : NumPy, Pandas <br>
-**Visualization**           : Matplotlib, Seaborn <br>           
+**Tools**                   : Jupyter Notebook<br>
+**Programming Languange**   : Python<br>
+**Libraries**               : NumPy, Pandas<br>
+**Visualization**           : Matplotlib, Seaborn<br>
 **Dataset**                 : [Hotel Bookings](https://github.com/bagusganjarl/hotel-business/blob/7d63a180c4a151c8b22b177eafae24d047ca383f/hotel_bookings_data.csv)
 
 ## **Introduction**
