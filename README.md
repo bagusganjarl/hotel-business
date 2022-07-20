@@ -18,14 +18,7 @@ Investigate hotel business performance to gain insights.
 
 ## **Preprocessing**
 1. First of all, I do a descriptive statistics. This dataset contains information of hotel bookings by customer.
-   <p align="center">  
-    <br>
-	<a href="#">
-        <img src="Desktop/Descriptive Statistics of Hotel Bookings.png">
-  </a>		
-    <br>
-	Figure 2 : Distribution of Scaled Predictors with outliers
-</p>
+   <insert image>
    The dataset has 119390 rows and 29 columns with various data type float64(4), int64(16), object(9).
 2. Check missing values. After overviewing the dataset, I checked the values of each columns.
    <insert image>
