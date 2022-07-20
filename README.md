@@ -38,18 +38,18 @@ Investigate hotel business performance to gain insights.
 1. **Monthly Hotel Booking Analysis Based on Hotel Type**
    Observe and analyze growth based on monthly hotlel bookings on hotel type. Both of hotel type tend to be increase in the holiday season. However, amount of City Hotel booking looks decrease on August to September. 
    <p align="center">
-    ![Monthly Hotel Booking Based on Hotel Type](https://user-images.githubusercontent.com/103989278/179948183-b6d2be21-1a6e-45ae-b5c6-0c95e11c2a24.png) <br>
+    ![Monthly Hotel Booking Based on Hotel Type](https://user-images.githubusercontent.com/103989278/179948183-b6d2be21-1a6e-45ae-b5c6-0c95e11c2a24.png)<br>
     Figure 3: Distribution of Monthly Hotel Booking Based on Hotel Type
    </p>
 2. **Annual Product Category Quality Analysis**
    Analyze correlation between stay duration towards cancellation hotel rates. City hotel was the highest cancel bookings rate than the Resort Hotel, almost 100%. However, Resort Hotel had the percentage less 50%.
    <p align="center">
-    ![Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates Visualization](https://user-images.githubusercontent.com/103989278/179948576-c80250a9-119a-467c-afdc-d5aacece6011.png) <br>
+    ![Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates Visualization](https://user-images.githubusercontent.com/103989278/179948576-c80250a9-119a-467c-afdc-d5aacece6011.png)<br>
     Figure 3: Distribution of Monthly Hotel Booking Based on Hotel Type
    </p>
 3. **Annual Payment Type Usage Analysis**
    Analyze corelation between lead time towards cancellation rates. Increase of lead time City Hotel will affect to cancellation bookings. Besides, Resort Hotel had fluctuative distribution.
    <p align="center">
-    ![Impact Analysis of Lead Time on Hotel Bookings Cancellation Rate Visualization](https://user-images.githubusercontent.com/103989278/179948770-387c08fe-c473-4b4a-87ad-eb141f5d7e3a.png) <br>
+    ![Impact Analysis of Lead Time on Hotel Bookings Cancellation Rate Visualization](https://user-images.githubusercontent.com/103989278/179948770-387c08fe-c473-4b4a-87ad-eb141f5d7e3a.png)<br>
     Figure 3: Distribution of Monthly Hotel Booking Based on Hotel Type
    </p>
