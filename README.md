@@ -37,7 +37,7 @@ Investigate hotel business performance to gain insights.
 ## **Analysis**
 1. **Monthly Hotel Booking Analysis Based on Hotel Type**
    Observe and analyze growth based on monthly hotlel bookings on hotel type. Both of hotel type tend to be increase in the holiday season. However, amount of City Hotel booking looks decrease on August to September.<br>
-   ![Monthly Hotel Booking Based on Hotel Type](https://user-images.githubusercontent.com/103989278/179948183-b6d2be21-1a6e-45ae-b5c6-0c95e11c2a24.png)<br>
+   <img width="969" alt="Screenshot Monthly Hotel Bookings" src="https://user-images.githubusercontent.com/103989278/179950901-e36d3e4c-f60f-4f6b-9617-998847f5764d.png"> <br>
    <p align="center">
    Figure 3: Distribution of Monthly Hotel Booking Based on Hotel Type
    </p>
